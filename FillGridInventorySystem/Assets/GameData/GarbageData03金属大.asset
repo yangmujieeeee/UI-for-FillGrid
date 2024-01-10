@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2151c1d3c3006f440b78c861f245c863, type: 3}
+  m_Name: "GarbageData03\u91D1\u5C5E\u5927"
+  m_EditorClassIdentifier: 
+  ID: 3
+  Name: 
+  slotCount: 4
+  sprite: {fileID: 21300000, guid: 460cc8b1c94c846499eb6a39ea766877, type: 3}
+  info: {fileID: 21300000, guid: 38aebf61cdbfb1a459315746699308ee, type: 3}
+  garbageType: 5
+  prefab: {fileID: 8424612545600950068, guid: af3d299ac3f650542b9ae7106399f6e6, type: 3}
